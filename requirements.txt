@@ -1,4 +1,5 @@
 Flask-Talisman
+Flask-Cors
 
 # Pin dependancies that might cause breakage
 Werkzeug==2.1.2
